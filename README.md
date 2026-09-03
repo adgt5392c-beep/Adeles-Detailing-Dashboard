@@ -140,6 +140,6 @@ Vite imports the CSV text and Papa Parse converts it into typed application reco
 
 The published URL is:
 
-<https://adgt5392c-beep.github.io/Adeles-Detailing-Dashboard/>
+<https://adixon75.github.io/Adeles-Detailing-Dashboard/>
 
 No repository connection, push, or GitHub Pages setting should be changed until the local version has been reviewed and explicitly approved.

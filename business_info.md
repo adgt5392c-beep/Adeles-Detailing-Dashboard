@@ -27,7 +27,7 @@ Business logo available: No
 # Public links
 
 
-GitHub profile: https://github.com/adgt5392c-beep
+GitHub profile: https://github.com/adixon75
 
 
 # Business story
@@ -54,7 +54,7 @@ Deployment platform: GitHub Pages
 GitHub repository name: Adeles-Detailing-Dashboard
 
 
-Public website URL: Planned GitHub Pages URL: https://adgt5392c-beep.github.io/Adeles-Detailing-Dashboard/
+Public website URL: https://adixon75.github.io/Adeles-Detailing-Dashboard/
 
 
 # Required pages and features
