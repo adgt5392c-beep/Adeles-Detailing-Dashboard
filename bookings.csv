@@ -1,0 +1,86 @@
+booking_id,booking_date,customer_alias,service,vehicle_class,booking_amount,direct_material_cost,other_direct_cost,duration_hours,status,is_repeat_customer
+BK-0001,2026-03-07,Avery Brooks,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0002,2026-03-15,Jordan Reed,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,135,,,4,completed,false
+BK-0003,2026-03-28,Morgan Ellis,Full Interior & Exterior Detail,Coupe,100,,,3,completed,false
+BK-0004,2026-03-29,Taylor Hayes,Full Interior & Exterior Detail,Pickup Truck,120,,,4,completed,false
+BK-0005,2026-04-18,Casey Monroe,Full Interior & Exterior Detail,Compact Hatchback,100,,,3,completed,false
+BK-0006,2026-04-19,Riley Bennett,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Mid-size SUV,135,,,4,completed,false
+BK-0007,2026-05-02,Cameron Wells,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0008,2026-05-03,Peyton Clark,Full Interior & Exterior Detail,Minivan,120,,,4,completed,true
+BK-0009,2026-05-08,Drew Parker,Full Interior & Exterior Detail,Coupe,100,,,3,completed,true
+BK-0010,2026-05-14,Skyler James,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,135,,,4,completed,true
+BK-0011,2026-05-14,Quinn Foster,Full Interior & Exterior Detail,Compact Hatchback,100,,,3,completed,false
+BK-0012,2026-05-16,Reese Morgan,Full Interior & Exterior Detail,Pickup Truck,120,,,4,completed,false
+BK-0013,2026-06-02,Parker Lane,Full Interior & Exterior Detail,Sedan,130,,,3,completed,true
+BK-0014,2026-06-08,Hayden Cole,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,165,,,4,completed,false
+BK-0015,2026-06-11,Rowan Blake,Full Interior & Exterior Detail,Coupe,130,,,3,completed,false
+BK-0016,2026-06-23,Alex Sutton,Full Interior & Exterior Detail,Pickup Truck,150,,,4,completed,false
+BK-0017,2026-07-13,Jamie Rivers,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,completed,false
+BK-0018,2026-07-15,Devon Bailey,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Mid-size SUV,165,,,4,completed,false
+BK-0019,2026-07-16,Sydney Carter,Full Interior & Exterior Detail,Sedan,130,,,3,completed,false
+BK-0020,2026-07-21,Finley Ross,Full Interior & Exterior Detail,Minivan,150,,,4,completed,false
+BK-0021,2026-07-21,Blair Jordan,Full Interior & Exterior Detail,Coupe,130,,,3,completed,false
+BK-0022,2026-07-27,Dakota Greene,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,165,,,4,completed,false
+BK-0023,2026-07-30,Emerson Gray,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,completed,false
+BK-0024,2026-08-02,Kendall Price,Full Interior & Exterior Detail,Pickup Truck,150,,,4,completed,false
+BK-0025,2026-08-05,Avery Brooks,Full Interior & Exterior Detail,Sedan,130,,,3,completed,true
+BK-0026,2026-08-06,Jordan Reed,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,165,,,4,completed,true
+BK-0027,2026-08-13,Morgan Ellis,Full Interior & Exterior Detail,Coupe,130,,,3,completed,true
+BK-0028,2026-08-28,Taylor Hayes,Full Interior & Exterior Detail,Pickup Truck,150,,,4,completed,true
+BK-0029,2026-09-07,Casey Monroe,Full Interior & Exterior Detail,Minivan,150,,,4,planned,true
+BK-0030,2026-09-20,Riley Bennett,Full Interior & Exterior Detail,Sedan,130,,,3,planned,true
+BK-0031,2026-10-03,Cameron Wells,Full Interior & Exterior Detail,Minivan,150,,,4,planned,true
+BK-0035,2026-11-22,Quinn Foster,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,planned,true
+BK-0037,2026-03-01,Logan Hart,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0038,2026-03-08,Charlie Woods,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,135,,,4,completed,false
+BK-0039,2026-03-21,Micah Stone,Full Interior & Exterior Detail,Coupe,100,,,3,completed,false
+BK-0040,2026-03-22,Sage Turner,Full Interior & Exterior Detail,Pickup Truck,120,,,4,completed,false
+BK-0041,2026-04-04,Tatum King,Full Interior & Exterior Detail,Compact Hatchback,100,,,3,completed,false
+BK-0042,2026-04-05,Remy Collins,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Mid-size SUV,135,,,4,completed,false
+BK-0043,2026-04-11,Arden Bell,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0044,2026-04-25,Shiloh Grant,Full Interior & Exterior Detail,Minivan,120,,,4,completed,false
+BK-0045,2026-05-09,Noel Harper,Full Interior & Exterior Detail,Coupe,100,,,3,completed,false
+BK-0046,2026-05-10,Phoenix Dean,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,135,,,4,completed,false
+BK-0047,2026-05-23,River Scott,Full Interior & Exterior Detail,Compact Hatchback,100,,,3,completed,false
+BK-0048,2026-05-30,Marley Adams,Full Interior & Exterior Detail,Pickup Truck,120,,,4,completed,false
+BK-0049,2026-06-06,Ellis Young,Full Interior & Exterior Detail,Sedan,130,,,3,completed,false
+BK-0050,2026-06-07,Robin West,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,165,,,4,completed,false
+BK-0051,2026-06-20,Frankie Moore,Full Interior & Exterior Detail,Coupe,130,,,3,completed,false
+BK-0052,2026-06-28,Sam Taylor,Full Interior & Exterior Detail,Pickup Truck,150,,,4,completed,false
+BK-0053,2026-07-04,Jules Cooper,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,completed,false
+BK-0054,2026-07-05,Bailey Knox,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Mid-size SUV,165,,,4,completed,false
+BK-0055,2026-07-18,Corey Miles,Full Interior & Exterior Detail,Sedan,130,,,3,completed,false
+BK-0056,2026-07-25,Lee Dawson,Full Interior & Exterior Detail,Minivan,150,,,4,completed,false
+BK-0057,2026-08-01,Ari Murphy,Full Interior & Exterior Detail,Coupe,130,,,3,completed,false
+BK-0058,2026-08-08,Chris Vaughn,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,165,,,4,completed,false
+BK-0059,2026-08-16,Kai Porter,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,completed,false
+BK-0060,2026-08-22,Nico Ramsey,Full Interior & Exterior Detail,Pickup Truck,150,,,4,completed,false
+BK-0061,2026-09-05,Logan Hart,Full Interior & Exterior Detail,Sedan,130,,,3,planned,true
+BK-0062,2026-09-12,Charlie Woods,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,165,,,4,planned,true
+BK-0063,2026-09-19,Micah Stone,Full Interior & Exterior Detail,Coupe,130,,,3,planned,true
+BK-0064,2026-09-26,Sage Turner,Full Interior & Exterior Detail,Pickup Truck,150,,,4,planned,true
+BK-0065,2026-10-04,Tatum King,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,planned,true
+BK-0066,2026-10-10,Remy Collins,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Mid-size SUV,165,,,4,planned,true
+BK-0067,2026-10-17,Arden Bell,Full Interior & Exterior Detail,Sedan,130,,,3,planned,true
+BK-0068,2026-10-24,Shiloh Grant,Full Interior & Exterior Detail,Minivan,150,,,4,planned,true
+BK-0069,2026-11-01,Noel Harper,Full Interior & Exterior Detail,Coupe,130,,,3,planned,true
+BK-0070,2026-11-07,Phoenix Dean,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,165,,,4,planned,true
+BK-0071,2026-11-15,River Scott,Full Interior & Exterior Detail,Compact Hatchback,130,,,3,planned,true
+BK-0072,2026-11-28,Marley Adams,Full Interior & Exterior Detail,Pickup Truck,150,,,4,planned,true
+BK-0073,2026-10-03,Lane Mitchell,Full Interior & Exterior Detail,Sedan,130,,,3,planned,false
+BK-0074,2026-10-11,Harper Quinn,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Minivan,165,,,4,planned,false
+BK-0075,2026-10-11,Avery Brooks,Full Interior & Exterior Detail,Sedan,130,,,3,planned,true
+BK-0076,2026-10-18,Jordan Reed,Full Interior & Exterior Detail,Minivan,150,,,4,planned,true
+BK-0077,2026-10-18,Reese Morgan,Full Interior & Exterior Detail,Coupe,130,,,3,planned,true
+BK-0078,2026-11-08,Casey Monroe,Full Interior & Exterior Detail,Sedan,130,,,3,planned,true
+BK-0079,2026-11-08,Elliot Brooks,Full Interior & Exterior Detail,Compact SUV,150,,,4,planned,false
+BK-0080,2026-11-22,Maya Collins,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Sedan,145,,,3,planned,false
+BK-0081,2026-11-29,Nora Bennett,Full Interior & Exterior Detail,Minivan,150,,,4,planned,false
+BK-0082,2026-11-29,Theo Parker,Full Interior & Exterior Detail,Sedan,130,,,3,planned,false
+BK-0083,2026-01-10,Peyton Clark,Full Interior & Exterior Detail,Minivan,120,,,4,completed,false
+BK-0084,2026-01-18,Drew Parker,Full Interior & Exterior Detail,Coupe,100,,,3,completed,false
+BK-0085,2026-01-24,Skyler James,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Full-size SUV,135,,,4,completed,false
+BK-0086,2026-02-01,Parker Lane,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0087,2026-02-08,Remy Stone,Full Interior & Exterior Detail,Sedan,100,,,3,completed,false
+BK-0088,2026-02-21,Ainsley Ford,Full Interior & Exterior Detail + Hydroseal Paint Protectant,Compact SUV,135,,,4,completed,false
+BK-0089,2026-02-28,Charlie Fox,Full Interior & Exterior Detail,Compact Hatchback,100,,,3,completed,false
