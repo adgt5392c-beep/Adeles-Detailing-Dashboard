@@ -137,15 +137,6 @@ pnpm test:e2e
 
 Vite imports the CSV text and Papa Parse converts it into typed application records at build time. No private API, server, calendar connection, or secret is required.
 
-## Deploy to GitHub Pages
-
-The included workflow builds and tests the site before publishing `dist`.
-
-1. Use the existing repository `adgt5392c-beep/Adeles-Detailing-Dashboard`.
-2. Push the project to the `main` branch.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, select **GitHub Actions** as the source.
-5. Run the “Deploy to GitHub Pages” workflow or push to `main`.
 
 The published URL is:
 
